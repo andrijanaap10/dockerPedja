@@ -1,0 +1,5 @@
+db/*.sock
+db/*.cnf
+db/*.index
+db/*.sql
+db/*.ibd
